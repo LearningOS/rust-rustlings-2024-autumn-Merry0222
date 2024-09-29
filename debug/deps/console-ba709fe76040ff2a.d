@@ -1,0 +1,11 @@
+/home/merry0222/Github/rust-rustlings-2024-autumn-Merry0222/debug/deps/libconsole-ba709fe76040ff2a.rmeta: /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs
+
+/home/merry0222/Github/rust-rustlings-2024-autumn-Merry0222/debug/deps/console-ba709fe76040ff2a.d: /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs
+
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs:

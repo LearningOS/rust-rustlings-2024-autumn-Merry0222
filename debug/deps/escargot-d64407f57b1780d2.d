@@ -1,0 +1,15 @@
+/home/merry0222/Github/rust-rustlings-2024-autumn-Merry0222/debug/deps/libescargot-d64407f57b1780d2.rmeta: /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/lib.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/build.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/cargo.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/msg.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/run.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/error.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/mod.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/diagnostic.rs /home/merry0222/Github/rust-rustlings-2024-autumn-Merry0222/debug/build/escargot-f0a7504263d358e8/out/current_target.txt
+
+/home/merry0222/Github/rust-rustlings-2024-autumn-Merry0222/debug/deps/escargot-d64407f57b1780d2.d: /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/lib.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/build.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/cargo.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/msg.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/run.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/error.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/mod.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/diagnostic.rs /home/merry0222/Github/rust-rustlings-2024-autumn-Merry0222/debug/build/escargot-f0a7504263d358e8/out/current_target.txt
+
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/lib.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/build.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/cargo.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/msg.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/run.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/error.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/mod.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/escargot-0.4.0/src/format/diagnostic.rs:
+/home/merry0222/Github/rust-rustlings-2024-autumn-Merry0222/debug/build/escargot-f0a7504263d358e8/out/current_target.txt:
+
+# env-dep:OUT_DIR=/home/merry0222/Github/rust-rustlings-2024-autumn-Merry0222/debug/build/escargot-f0a7504263d358e8/out

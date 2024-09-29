@@ -1,0 +1,10 @@
+/home/merry0222/Github/rust-rustlings-2024-autumn-Merry0222/debug/deps/libinotify-db8ba82508d312d2.rmeta: /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs
+
+/home/merry0222/Github/rust-rustlings-2024-autumn-Merry0222/debug/deps/inotify-db8ba82508d312d2.d: /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs /home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs
+
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs:
+/home/merry0222/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs:
